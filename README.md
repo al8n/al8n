@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I am Al.
+- I am a Rustacean/Gopher. In the previous two years, writing Go, but now, writing Rust most of the time. 
+- I am a distributed system engineer.
+- I am crazy fun of Flutter.
+- I am a serial entrepreneur.
