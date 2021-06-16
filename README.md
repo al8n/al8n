@@ -18,4 +18,11 @@ Here are some ideas to get you started:
 - I am a Rustacean/Gopher. In the previous two years, writing Go, but now, writing Rust most of the time. 
 - I am a distributed system engineer.
 - I am crazy fun of Flutter.
-- I am a serial entrepreneur.
+
+Skills:
+- Rust
+- Golang
+- Python
+- Typescript (Angular)
+- Flutter/Dart
+- Docker/k8s/Istio
