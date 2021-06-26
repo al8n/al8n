@@ -33,12 +33,6 @@ Here are some ideas to get you started:
 
 
 <h4 align="left">Weekly Development Breakdown</h4>
+
 <!--START_SECTION:waka-->
-```text
-Rust              6 hrs 37 mins   ██████████████░░░░░░░░░░░   55.61 % 
-Go                2 hrs 55 mins   ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-Protocol Buffer   1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-TOML              43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Git Config        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-```
 <!--END_SECTION:waka-->
