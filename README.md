@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - I am a Rustacean/Gopher. In the previous two years, writing Go, but now, writing Rust most of the time.
 - I am a distributed system engineer.
 - I am crazy fan of Flutter.
-- I am interested in service mesh and SaaS.
-- I am reading the source code of [NATS](https://github.com/nats-io/nats-server), [pion/webrtc](https://github.com/pion/webrtc), and [IndraDB](https://github.com/indradb/indradb).
+- I am interested in distributed infrastructure software development.
+- I am reading the source code of [NATS](https://github.com/nats-io/nats-server), [pion/webrtc](https://github.com/pion/webrtc), and [Dgraph](https://github.com/dgraph/dgraph).
 
 #### Weekly Development Breakdown
 
