@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Rust              21 hrs 13 mins  █████████████████▒░░░░░░░   69.10 % 
-Go                5 hrs           ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Dart              2 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Protocol Buffer   1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-TOML              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Rust              23 hrs 15 mins  ██████████████████░░░░░░░   71.46 % 
+Go                5 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Dart              2 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Protocol Buffer   47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+TOML              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 <!--END_SECTION:waka-->
 
