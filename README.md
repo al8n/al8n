@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Rust         46 hrs 24 mins  █████████████████████▓░░░   86.95 % 
-Go           6 hrs 50 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Rust         47 hrs 10 mins  █████████████████████▓░░░   86.92 % 
+Go           6 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+TOML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-TOML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 <!--END_SECTION:waka-->
 
