@@ -4,6 +4,7 @@
 - Rustacean/Gopher. In the previous two years, writing Go, but now, writing Rust most of the time.
 - I am interested in distributed infrastructure software development.
 - Currently, I am reading the source code of [NATS](https://github.com/nats-io/nats-server), [pion/webrtc](https://github.com/pion/webrtc), and [Dgraph](https://github.com/dgraph/dgraph).
+- I am also looking for remote internship or part-time job (blockchain, distributed infrastructure software development).
 
 
 <h4 align="left">Wekatime States(Since May 12, 2021)</h4>
