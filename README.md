@@ -1,11 +1,19 @@
 <div align="center">
-<h3>Al Liu</h3>
-  <p align="center">
-    <a target="_blank" href="https://twitter.com/al8n9434">Twitter</a> •
-    <a target="_blank" href="https://www.linkedin.com/in/%E5%86%A0%E5%BB%B6-%E5%88%98-0011a121a/">LinkedIn</a> •
-    <a target="_blank" href="https://www.reddit.com/user/Al_Liu">Reddit</a>
-  </p>
+
+## **AL Liu**
+
+<p align="center">
+
+[<img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="22" alt="LinkedIn">][linkedin]&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="22">][email]&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Reddit-fc8d62.svg?&style=for-the-badge&logo=reddit&logoColor=white" alt="email" height="22">][reddit]&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height = "22">][twitter]
+
+
+</p>
 </div>
+
+
 
 - I am Al Liu, a year 4 student from The University of Auckland.
 - Rustacean/Gopher. In the previous two years, writing Go, but now, writing Rust most of the time.
@@ -13,6 +21,7 @@
 - Currently, I am reading the source code of [NATS](https://github.com/nats-io/nats-server), [pion/webrtc](https://github.com/pion/webrtc), and [Dgraph](https://github.com/dgraph/dgraph).
 - **I am looking for a remote internship or part-time job (blockchain, distributed infrastructure software, cloud computing).**
 - **I am also looking for a research opportunity and want to research distributed system/storage/algorithms or blockchain.**
+
 
 <h4 align="center">Wekatime States(Since May 12, 2021)</h4>
 <div>
@@ -32,3 +41,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=al8n&repo=stretto&theme=nord&hide_border=true" />
 </a>
 </p>
+
+
+[email]: mailto:scygliu1@gmail.com
+[linkedin]: https://www.linkedin.com/in/%E5%86%A0%E5%BB%B6-%E5%88%98-0011a121a/
+[twitter]: https://twitter.com/al8n9434
+[reddit]: https://www.reddit.com/user/Al_Liu
