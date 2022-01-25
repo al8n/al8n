@@ -15,12 +15,12 @@
 
 
 
-- I am Al Liu, a year 4 student from The University of Auckland.
+- I am Al Liu, a year 4 student from the University of Auckland.
 - Rustacean/Gopher. In the previous two years, writing Go, but now, writing Rust most of the time.
 - I am interested in distributed infrastructure software development.
 - Currently, I am reading the source code of [NATS](https://github.com/nats-io/nats-server), [pion/webrtc](https://github.com/pion/webrtc), and [Dgraph](https://github.com/dgraph/dgraph).
-- **I am looking for a remote internship or part-time job (blockchain, distributed infrastructure software, cloud computing).**
-- **I am also looking for a research opportunity and want to research distributed system/storage/algorithms or blockchain.**
+<!-- - **I am looking for a remote internship or part-time job (blockchain, distributed infrastructure software, cloud computing).**
+- **I am also looking for a research opportunity and want to research distributed system/storage/algorithms or blockchain.** -->
 
 
 <h4 align="center">Wekatime States(Since May 12, 2021)</h4>
