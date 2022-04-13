@@ -15,7 +15,7 @@
 
 
 
-- I am Al Liu, a year 4 student from the University of Auckland.
+- I am Al Liu, currently, I am a year 4 student from the University of Auckland and I am also working full-time for [Polar Sync](https://polarsync.app/) as a Rust Engineer.
 - Rustacean/Gopher. In the previous two years, writing Go, but now, writing Rust most of the time. Rust is my favorite language.
 - I am interested in distributed infrastructure software development and Blockchain development.
 - Currently, I am reading the source code of [NATS](https://github.com/nats-io/nats-server), [pion/webrtc](https://github.com/pion/webrtc), and [Dgraph](https://github.com/dgraph/dgraph).
