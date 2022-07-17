@@ -32,6 +32,7 @@
 - [memmapix](https://github.com/al8n/memmapix): A pure Rust library for cross-platform memory mapped IO, which replace `libc` with `rustix`.
 - [skl](https://github.com/al8n/skl-rs): A lock-free thread-safe arena based skiplist impelementation for building memtable. 
 - [wg](https://github.com/al8n/wg): Golang like WaitGroup implementation for sync/async Rust.
+- [zallocator](https://github.com/al8n/zallocator): Amortizes the cost of small allocations by allocating memory in bigger chunks.
 
 <h4 align="center">Wekatime States(Since May 12, 2021)</h4>
 <div>
