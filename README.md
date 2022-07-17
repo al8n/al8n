@@ -22,11 +22,22 @@
 <!-- - **I am looking for a remote internship or part-time job (blockchain, distributed infrastructure software, cloud computing).**
 - **I am also looking for a research opportunity and want to research distributed system/storage/algorithms or blockchain.** -->
 
+<h4 align="center">Projects</h4>
+
+- [stretto](https://github.com/al8n/stretto): A high performance thread-safe memory-bound Rust cache.
+- [caches](https://github.com/al8n/caches-rs): This is a Rust implementation for popular caches (support no_std).
+- [fmmap](https://github.com/al8n/fmmap): A flexible and convenient high-level mmap for zero-copy file I/O.
+- [fs4](https://github.com/al8n/fs4-rs): Extended utilities for working with files and filesystems in Rust. This is a fork of the fs2-rs crate, the aim for this fork is to support async and replace libc with rustix.
+- [kvstructs](https://github.com/al8n/kvstructs): General basic key-value structs for Key-Value based storages.
+- [memmapix](https://github.com/al8n/memmapix): A pure Rust library for cross-platform memory mapped IO, which replace `libc` with `rustix`.
+- [skl](https://github.com/al8n/skl-rs): A lock-free thread-safe arena based skiplist impelementation for building memtable. 
+- [wg](https://github.com/al8n/wg): Golang like WaitGroup implementation for sync/async Rust.
 
 <h4 align="center">Wekatime States(Since May 12, 2021)</h4>
 <div>
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Al_Liu&langs_count=4&show_icons=true&locale=en&theme=nord&layout=compact&hide_title=true&hide_border=true" alt="al8n" /></p>
 </div>
+
 
 <h4 align="center">Languages and Tools</h4>
 
