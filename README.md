@@ -18,7 +18,12 @@
 - I am Al Liu, currently, I am a year 4 student from the University of Auckland and I am also working full-time for [Polar Sync](https://polarsync.app/) as a Rust Engineer.
 - Rustacean/Gopher. In the previous two years, writing Go, but now, writing Rust most of the time. Rust is my favorite language.
 - I am interested in distributed infrastructure software development and Blockchain development.
-- Currently, I am reading the source code of [NATS](https://github.com/nats-io/nats-server), [pion/webrtc](https://github.com/pion/webrtc), and [Dgraph](https://github.com/dgraph/dgraph).
+- Currently, I am reading the source code of [NATS](https://github.com/nats-io/nats-server), [pion/webrtc](https://github.com/pion/webrtc), and [Dgraph](https://github.com/dgraph/dgraph). 
+- What I am working on?
+  - [Polar Sync](https://polarsync.app/)'s blazing fast blockchain indexer.
+  - A variant consensus algorithm based on Raft and designed for distributed immutable database (My Hornors Degree research project).
+  - I am porting [badger](https://github.com/dgraph-io/badger) by Rust and also implementing [EPaxos](https://github.com/efficient/epaxos) and [Hermes](https://github.com/ease-lab/Hermes) by Rust in my personal time.
+  
 <!-- - **I am looking for a remote internship or part-time job (blockchain, distributed infrastructure software, cloud computing).**
 - **I am also looking for a research opportunity and want to research distributed system/storage/algorithms or blockchain.** -->
 
