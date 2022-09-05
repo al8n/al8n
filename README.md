@@ -22,7 +22,7 @@
 - What I am working on?
   - [Polar Sync](https://polarsync.app/)'s blazing fast blockchain indexer.
   - A variant consensus algorithm based on Raft and designed for distributed immutable database (My Hornors Degree research project).
-  - I am porting [badger](https://github.com/dgraph-io/badger) by Rust and also implementing [EPaxos](https://github.com/efficient/epaxos) and [Hermes](https://github.com/ease-lab/Hermes) by Rust in my personal time.
+  - I am porting [badger](https://github.com/dgraph-io/badger) by Rust in my personal time.
   
 <!-- - **I am looking for a remote internship or part-time job (blockchain, distributed infrastructure software, cloud computing).**
 - **I am also looking for a research opportunity and want to research distributed system/storage/algorithms or blockchain.** -->
