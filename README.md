@@ -20,7 +20,7 @@
 - I am interested in distributed infrastructure software development and Blockchain development.
 - Currently, I am reading the source code of [NATS](https://github.com/nats-io/nats-server), [pion/webrtc](https://github.com/pion/webrtc), and [Dgraph](https://github.com/dgraph/dgraph). 
 - What I am working on?
-  - [Polar Sync](https://polarsync.app/)'s blazing fast blockchain indexer.
+  - Blockchain Infra.
   - A variant consensus algorithm based on Raft and designed for distributed immutable database (My Hornors Degree research project).
   - I am porting [badger](https://github.com/dgraph-io/badger) by Rust in my personal time, see [veladb](https://github.com/al8n/veladb).
   
