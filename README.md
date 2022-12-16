@@ -59,7 +59,7 @@
 </a>
 </p>
 
-![al8n snake gif](https://github.com/al8n/al8n/blob/output/github-contribution-grid-snake.svg)
+<!-- ![al8n snake gif](https://github.com/al8n/al8n/blob/output/github-contribution-grid-snake.svg) -->
 
 [email]: mailto:scygliu1@gmail.com
 [linkedin]: https://www.linkedin.com/in/%E5%86%A0%E5%BB%B6-%E5%88%98-0011a121a/
