@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src='art.svg' />
+
 ## **AL Liu**
 
 <p align="center">
