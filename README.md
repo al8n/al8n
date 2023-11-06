@@ -18,13 +18,12 @@
 
 
 - I am Al Liu, currently, I am coding for my dream :).
-- Rustacean/Gopher. In the previous two years, writing Go, but now, writing Rust most of the time. Rust is my favorite language. Zig is the language I want to learn in recent future.
+- Rustacean. Rust is my favorite language. Zig is the language I want to learn in recent future.
 - I am interested in distributed infrastructure software development and Blockchain development.
 - Currently, I am reading the source code of [NATS](https://github.com/nats-io/nats-server), [pion/webrtc](https://github.com/pion/webrtc), and [Dgraph](https://github.com/dgraph/dgraph). 
-- What I am working on?
+- What am I working on?
   - Blockchain Infra.
-  - A variant consensus algorithm based on Raft and designed for distributed immutable database (My Hornors Degree research project).
-  - I am porting [badger](https://github.com/dgraph-io/badger) by Rust in my personal time, see [veladb](https://github.com/al8n/veladb).
+  - I am implementing multiple distributed consensus algorithms in Rust.
   
 <!-- - **I am looking for a remote internship or part-time job (blockchain, distributed infrastructure software, cloud computing).**
 - **I am also looking for a research opportunity and want to research distributed system/storage/algorithms or blockchain.** -->
@@ -35,7 +34,6 @@
 - [caches](https://github.com/al8n/caches-rs): This is a Rust implementation for popular caches (support no_std).
 - [fmmap](https://github.com/al8n/fmmap): A flexible and convenient high-level mmap for zero-copy file I/O.
 - [fs4](https://github.com/al8n/fs4-rs): Extended utilities for working with files and filesystems in Rust. This is a fork of the fs2-rs crate, the aim for this fork is to support async and replace libc with rustix.
-- [kvstructs](https://github.com/al8n/kvstructs): General basic key-value structs for Key-Value based storages.
 - [memmapix](https://github.com/al8n/memmapix): A pure Rust library for cross-platform memory mapped IO, which replace `libc` with `rustix`.
 - [skl](https://github.com/al8n/skl-rs): A lock-free thread-safe arena based skiplist impelementation for building memtable. 
 - [wg](https://github.com/al8n/wg): Golang like WaitGroup implementation for sync/async Rust.
