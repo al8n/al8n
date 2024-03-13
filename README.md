@@ -15,7 +15,7 @@
 </p>
 </div>
 
-
+**I am currently open to a full remote Rust software engineer position in Blockchain Infrastructures, Distributed Database, Cloud Native platform and etc. Reach out scygliu1@gmail.com**
 
 - I am Al Liu, currently, I am coding for my dream :).
 - Rustacean. Rust is my favorite language. Zig is the language I want to learn in recent future.
@@ -29,6 +29,11 @@
 - **I am also looking for a research opportunity and want to research distributed system/storage/algorithms or blockchain.** -->
 
 <h4 align="center">Projects</h4>
+
+<h5 align="center">Network</h5>
+
+- [memberlist](https://github.com/al8n/memberlist): A highly customable, adaptable, runtime agnostic and WASM/WASI friendly Gossip protocol which helps manage cluster membership and member failure detection. Support QUIC, TCP/TLS/UDP.
+
 <h5 align="center">Cache</h5>
 
 - [stretto](https://github.com/al8n/stretto): A high performance thread-safe memory-bound Rust cache.
