@@ -33,6 +33,16 @@
 <h5 align="center">Network</h5>
 
 - [memberlist](https://github.com/al8n/memberlist): A highly customable, adaptable, runtime agnostic and WASM/WASI friendly Gossip protocol which helps manage cluster membership and member failure detection. Support QUIC, TCP/TLS/UDP.
+- WIP: [ruraft](https://github.com/al8n/ruraft): A highly customable, adaptable, runtime agnostic and WASM/WASI friendly Raft protocol implementation.
+
+<h5 align="center">Database</h5>
+
+- [txn](https://github.com/al8n/txn): Generic transaction managers implementations for developing MVCC and ACID databases. Currently, optimistic, multiple writers, multiple readers, and SSI (Serializable Snapshot Isolation) transaction managers `mwmr` and `async-mwmr` implementation are finished.
+- [fmmap](https://github.com/al8n/fmmap): A flexible and convenient high-level mmap for zero-copy file I/O.
+- [fs4](https://github.com/al8n/fs4-rs): Extended utilities for working with files and filesystems in Rust. This is a fork of the fs2-rs crate, the aim for this fork is to support async and replace libc with rustix.
+- [memmapix](https://github.com/al8n/memmapix): A pure Rust library for cross-platform memory mapped IO, which replace `libc` with `rustix`.
+- [skl](https://github.com/al8n/skl-rs): A lock-free thread-safe arena based skiplist impelementation for building memtable. 
+- [zallocator](https://github.com/al8n/zallocator): Amortizes the cost of small allocations by allocating memory in bigger chunks.
 
 <h5 align="center">Cache</h5>
 
@@ -44,13 +54,7 @@
 - [atomic-time](https://github.com/al8n/atomic-time): Atomic version `std::time` implementation.
 - [wg](https://github.com/al8n/wg): Golang like `WaitGroup` and `AsyncWaitGroup` implementation for sync/async Rust.
 
-<h5 align="center">Database Utils</h5>
 
-- [fmmap](https://github.com/al8n/fmmap): A flexible and convenient high-level mmap for zero-copy file I/O.
-- [fs4](https://github.com/al8n/fs4-rs): Extended utilities for working with files and filesystems in Rust. This is a fork of the fs2-rs crate, the aim for this fork is to support async and replace libc with rustix.
-- [memmapix](https://github.com/al8n/memmapix): A pure Rust library for cross-platform memory mapped IO, which replace `libc` with `rustix`.
-- [skl](https://github.com/al8n/skl-rs): A lock-free thread-safe arena based skiplist impelementation for building memtable. 
-- [zallocator](https://github.com/al8n/zallocator): Amortizes the cost of small allocations by allocating memory in bigger chunks.
 
 <h4 align="center">Wekatime States(Since May 12, 2021)</h4>
 <div>
