@@ -33,6 +33,7 @@
 <h5 align="center">Network</h5>
 
 - [memberlist](https://github.com/al8n/memberlist): A highly customable, adaptable, runtime agnostic and WASM/WASI friendly Gossip protocol which helps manage cluster membership and member failure detection. Support QUIC, TCP/TLS/UDP.
+- [ruserf](https://github.com/al8n/ruserf): A highly customable, adaptable, runtime agnostic and WASM/WASI friendly decentralized solution for service discovery and orchestration that is lightweight, highly available, and fault tolerant.
 - WIP: [ruraft](https://github.com/al8n/ruraft): A highly customable, adaptable, runtime agnostic and WASM/WASI friendly Raft protocol implementation.
 
 <h5 align="center">Database</h5>
@@ -69,11 +70,16 @@
 </p>
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=al8n&show_icons=true&locale=en&langs_count=3&theme=nord&hide_border=true" alt="al8n" /></p>
 
-<h4 align="center">Top Repositories</h4>
+<h4 align = "center">Top Repositories</h4>
 <p align = "center">
 <a href="https://github.com/al8n/memberlist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=al8n&repo=memberlist&theme=nord&hide_border=true" />
 </a>
+<a href="https://github.com/al8n/ruserf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=al8n&repo=ruserf&theme=nord&hide_border=true" />
+</a>
+</p>
+<p align = "center">
 <a href="https://github.com/al8n/stretto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=al8n&repo=stretto&theme=nord&hide_border=true" />
 </a>
