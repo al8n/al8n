@@ -38,7 +38,7 @@
 
 <h5 align="center">Database</h5>
 
-- [txn](https://github.com/al8n/txn): Generic transaction managers implementations for developing MVCC and ACID databases. Currently, optimistic, multiple writers, multiple readers, and SSI (Serializable Snapshot Isolation) transaction managers `mwmr` and `async-mwmr` implementation are finished.
+- [skipdb](https://github.com/al8n/skipdb): An embedded, in-memory, zero-copy, ACID, MVCC, almost lock-free and serializable snapshot isolation database engine.
 - [fmmap](https://github.com/al8n/fmmap): A flexible and convenient high-level mmap for zero-copy file I/O.
 - [fs4](https://github.com/al8n/fs4-rs): Extended utilities for working with files and filesystems in Rust. This is a fork of the fs2-rs crate, the aim for this fork is to support async and replace libc with rustix.
 - [memmapix](https://github.com/al8n/memmapix): A pure Rust library for cross-platform memory mapped IO, which replace `libc` with `rustix`.
