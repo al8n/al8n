@@ -15,7 +15,7 @@
 </p>
 </div>
 
-**I am currently open to a full remote Rust software engineer position (or Singapore On-site, but I need a visa sponsorship) in Blockchain Infrastructures, Distributed Database, Cloud Native platforms and etc. Reach out scygliu1@gmail.com**
+**I am currently open to a full remote Rust software engineer position (Hong Kong on-site or Singapore (need visa sponsorship) on-site) in Blockchain Infrastructures, Distributed Database, Cloud Native platforms and etc. Reach out scygliu1@gmail.com**
 
 - I am Al Liu, currently, I am coding for my dream :).
 - Rustacean. Rust is my favorite language. Zig is the language I want to learn in recent future.
