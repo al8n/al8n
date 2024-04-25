@@ -80,6 +80,9 @@
 </a>
 </p>
 <p align = "center">
+<a href="https://github.com/al8n/skipdb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=al8n&repo=skipdb&theme=nord&hide_border=true" />
+</a>
 <a href="https://github.com/al8n/stretto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=al8n&repo=stretto&theme=nord&hide_border=true" />
 </a>
