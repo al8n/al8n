@@ -38,12 +38,13 @@
 
 <h5 align="center">Database</h5>
 
-- [skipdb](https://github.com/al8n/skipdb): An embedded, in-memory, zero-copy, ACID, MVCC, almost lock-free and serializable snapshot isolation database engine.
+- [skipdb](https://github.com/al8n/skipdb): An embedded, in-memory, zero-copy, ACI, MVCC, almost lock-free and serializable snapshot isolation database engine.
+- [skl](https://github.com/al8n/skl-rs): A lock-free thread-safe arena based skiplist impelementation for building memtable. 
+- [zallocator](https://github.com/al8n/zallocator): Amortizes the cost of small allocations by allocating memory in bigger chunks.
 - [fmmap](https://github.com/al8n/fmmap): A flexible and convenient high-level mmap for zero-copy file I/O.
 - [fs4](https://github.com/al8n/fs4-rs): Extended utilities for working with files and filesystems in Rust. This is a fork of the fs2-rs crate, the aim for this fork is to support async and replace libc with rustix.
 - [memmapix](https://github.com/al8n/memmapix): A pure Rust library for cross-platform memory mapped IO, which replace `libc` with `rustix`.
-- [skl](https://github.com/al8n/skl-rs): A lock-free thread-safe arena based skiplist impelementation for building memtable. 
-- [zallocator](https://github.com/al8n/zallocator): Amortizes the cost of small allocations by allocating memory in bigger chunks.
+
 
 <h5 align="center">Cache</h5>
 
