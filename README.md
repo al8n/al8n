@@ -9,7 +9,6 @@
 [<img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="22" alt="LinkedIn">][linkedin]&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="22">][email]&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Reddit-fc8d62.svg?&style=for-the-badge&logo=reddit&logoColor=white" alt="email" height="22">][reddit]&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height = "22">][twitter]
 
 
 </p>
