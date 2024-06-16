@@ -38,7 +38,8 @@
 <h5 align="center">Database</h5>
 
 - [skipdb](https://github.com/al8n/skipdb): An embedded, in-memory, zero-copy, ACI, MVCC, almost lock-free and serializable snapshot isolation database engine.
-- [skl](https://github.com/al8n/skl-rs): A lock-free thread-safe arena based skiplist impelementation for building memtable. 
+- [skl](https://github.com/al8n/skl): A lock-free thread-safe arena based skiplist impelementation for building memtable.
+- [rarena-allocator](https://github.com/al8n/rarena/tree/main/rarena-allocator): Lock-free ARENA allocator which can be used in both memory and on-disk.
 - [zallocator](https://github.com/al8n/zallocator): Amortizes the cost of small allocations by allocating memory in bigger chunks.
 - [fmmap](https://github.com/al8n/fmmap): A flexible and convenient high-level mmap for zero-copy file I/O.
 - [fs4](https://github.com/al8n/fs4-rs): Extended utilities for working with files and filesystems in Rust. This is a fork of the fs2-rs crate, the aim for this fork is to support async and replace libc with rustix.
@@ -51,7 +52,7 @@
 - [caches](https://github.com/al8n/caches-rs): This is a Rust implementation for popular caches (support no_std).
 
 <h5 align="center">Development Tools</h5>
-
+- [rarena](https://github.com/al8n/rarena): Lock-free ARENA allocator and a set of lock-free data structures based on the ARENA allocator.
 - [atomic-time](https://github.com/al8n/atomic-time): Atomic version `std::time` implementation.
 - [wg](https://github.com/al8n/wg): Golang like `WaitGroup` and `AsyncWaitGroup` implementation for sync/async Rust.
 
