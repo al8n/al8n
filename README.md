@@ -16,16 +16,12 @@
 
 **I am currently open to a full remote Rust software engineer position (Hong Kong on-site or Singapore (need visa sponsorship) on-site) in Blockchain Infrastructures, Distributed Database, Cloud Native platforms and etc. Reach out scygliu1@gmail.com**
 
-- I am Al Liu, currently, I am coding for my dream :).
-- Rustacean. Rust is my favorite language. Zig is the language I want to learn in recent future.
+- I am Al Liu.
+- Rustacean. Rust is my favorite language. Zig is the language I want to learn in the future.
 - I am interested in distributed infrastructure software development and Blockchain development.
-- Currently, I am reading the source code of [NATS](https://github.com/nats-io/nats-server), [pion/webrtc](https://github.com/pion/webrtc), and [Dgraph](https://github.com/dgraph/dgraph). 
 - What am I working on?
   - Blockchain Infra.
   - I am implementing multiple distributed consensus algorithms in Rust.
-  
-<!-- - **I am looking for a remote internship or part-time job (blockchain, distributed infrastructure software, cloud computing).**
-- **I am also looking for a research opportunity and want to research distributed system/storage/algorithms or blockchain.** -->
 
 <h4 align="center">Projects</h4>
 
@@ -52,6 +48,7 @@
 - [caches](https://github.com/al8n/caches-rs): This is a Rust implementation for popular caches (support no_std).
 
 <h5 align="center">Development Tools</h5>
+
 - [rarena](https://github.com/al8n/rarena): Lock-free ARENA allocator and a set of lock-free data structures based on the ARENA allocator.
 - [atomic-time](https://github.com/al8n/atomic-time): Atomic version `std::time` implementation.
 - [wg](https://github.com/al8n/wg): Golang like `WaitGroup` and `AsyncWaitGroup` implementation for sync/async Rust.
@@ -93,5 +90,4 @@
 
 [email]: mailto:scygliu1@gmail.com
 [linkedin]: https://www.linkedin.com/in/%E5%86%A0%E5%BB%B6-%E5%88%98-0011a121a/
-[twitter]: https://twitter.com/al8n9434
 [reddit]: https://www.reddit.com/user/Al_Liu
