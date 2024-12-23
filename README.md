@@ -28,7 +28,7 @@
 <h5 align="center">Network</h5>
 
 - [memberlist](https://github.com/al8n/memberlist): A highly customable, adaptable, runtime agnostic and WASM/WASI friendly Gossip protocol which helps manage cluster membership and member failure detection. Support QUIC, TCP/TLS/UDP.
-- [ruserf](https://github.com/al8n/ruserf): A highly customable, adaptable, runtime agnostic and WASM/WASI friendly decentralized solution for service discovery and orchestration that is lightweight, highly available, and fault tolerant.
+- [serf](https://github.com/al8n/serf): A highly customable, adaptable, runtime agnostic and WASM/WASI friendly decentralized solution for service discovery and orchestration that is lightweight, highly available, and fault tolerant.
 - WIP: [ruraft](https://github.com/al8n/ruraft): A highly customable, adaptable, runtime agnostic and WASM/WASI friendly Raft protocol implementation.
 
 <h5 align="center">Database</h5>
