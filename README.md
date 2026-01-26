@@ -14,7 +14,7 @@
 </p>
 </div>
 
-<!-- **I am currently open to a full remote Rust software engineer position (Hong Kong on-site or Singapore (need visa sponsorship) on-site) in Blockchain Infrastructures, Distributed Database, Cloud Native platforms and etc. Reach out scygliu1@gmail.com** -->
+**I am currently open to a full remote Rust software engineer position (Hong Kong on-site or Singapore (need visa sponsorship) on-site) in Blockchain Infrastructures, Distributed Database, Cloud Native platforms and etc. Reach out scygliu1@gmail.com**
 
 - I am Al Liu.
 - Rustacean. Rust is my favorite language. Zig is the language I want to learn in the future.
@@ -29,7 +29,6 @@
 
 - [memberlist](https://github.com/al8n/memberlist): A highly customable, adaptable, runtime agnostic and WASM/WASI friendly Gossip protocol which helps manage cluster membership and member failure detection. Support QUIC, TCP/TLS/UDP.
 - [serf](https://github.com/al8n/serf): A highly customable, adaptable, runtime agnostic and WASM/WASI friendly decentralized solution for service discovery and orchestration that is lightweight, highly available, and fault tolerant.
-- WIP: [ruraft](https://github.com/al8n/ruraft): A highly customable, adaptable, runtime agnostic and WASM/WASI friendly Raft protocol implementation.
 
 <h5 align="center">Database</h5>
 
