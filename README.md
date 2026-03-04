@@ -14,16 +14,23 @@
 </p>
 </div>
 
-**I am currently open to a full remote Rust software engineer position (Hong Kong on-site or Singapore (need visa sponsorship) on-site) in Blockchain Infrastructures, Distributed Database, Cloud Native platforms and etc. Reach out scygliu1@gmail.com**
+<!--  **I am currently open to a full remote Rust software engineer position (Hong Kong on-site or Singapore (need visa sponsorship) on-site) in Blockchain Infrastructures, Distributed Database, Cloud Native platforms and etc. Reach out scygliu1@gmail.com** -->
+
 
 - I am Al Liu.
 - Rustacean. Rust is my favorite language. Zig is the language I want to learn in the future.
 - I am interested in distributed infrastructure software development and Blockchain development.
 - What am I working on?
   - Blockchain Infra.
-  - I am implementing multiple distributed consensus algorithms in Rust.
+  - Language Parser
+  - Network Programming
+  - High Frequent Trade System
+  - Embedding Databases Engine
 
 <h4 align="center">Projects</h4>
+
+<h5 align="center">Parser</h5>
+- [tokit](https://github.com/al8n/tokit): Blazing fast parser combinators with parse-while-lexing architecture (zero-copy), deterministic LALR-style parsing, and no hidden backtracking.
 
 <h5 align="center">Network</h5>
 
